@@ -1,0 +1,4 @@
+http://thelib.ru/books/russinovich_mark/1_vnutrennee_ustroystvo_windows_gl_1_4-read-7.html
+
+process explorer
+http://technet.microsoft.com/en-us/sysinternals/bb896653
