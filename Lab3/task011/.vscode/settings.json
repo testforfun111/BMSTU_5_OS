@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "buffer.h": "c",
+        "constants.h": "c",
+        "consumer.h": "c",
+        "producer.h": "c"
+    }
+}
